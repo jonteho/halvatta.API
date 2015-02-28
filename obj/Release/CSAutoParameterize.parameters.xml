@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="HavlAttaConnection-Web.config Connection String" description="HavlAttaConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=tcp:ktw64qe8k6.database.windows.net,1433;Initial Catalog=halvattaAPI_db;User Id=jonteho@ktw64qe8k6;Password=General90;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\coding\.local\\halvatta\\halvatta\\halvatta\.API\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='HavlAttaConnection']/@connectionString" />
+  </parameter>
+</parameters>
